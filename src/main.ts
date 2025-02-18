@@ -3,7 +3,7 @@ import { RandomValues } from "./random-values/random-values.class";
 function bootstrap() {
   try {
     const from = 100;
-    const to = 399;
+    const to = 500;
 
     const randomValueFirst = new RandomValues({
       from,
