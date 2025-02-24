@@ -4,5 +4,5 @@ export interface IRandomValuesConstructorPayload {
 }
 
 export interface IRandomValues {
-  getRandomValue(min: number, max: number): number;
+  getRandomValue(): number;
 }
