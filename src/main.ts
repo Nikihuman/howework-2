@@ -16,4 +16,10 @@ function bootstrap() {
   }
 }
 
+// Короень слова корень ?
 bootstrap();
+
+
+
+
+
